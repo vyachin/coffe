@@ -28,7 +28,6 @@ class LoginButton extends StatelessWidget {
         child: Text(
           this.label,
           style: TextStyle(
-            fontFamily: 'Poppins',
             fontSize: 12.0,
           ),
           textAlign: TextAlign.center,
